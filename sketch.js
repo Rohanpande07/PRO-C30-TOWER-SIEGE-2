@@ -60,6 +60,7 @@ function draw() {
   textSize(20);
   fill("lightyellow");
   text("Drag the polygon to destroy the blocks",300,30);
+  text("Press 'SPACE' to get a second chance to play!!!",450,360);
   ground.display();
   stand1.display();
   stand2.display();
